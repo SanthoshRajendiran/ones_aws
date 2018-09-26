@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.antmedia.android.liveVideoBroadcaster">
+    package="io.antmedia.android1.liveVideoBroadcaster">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name="io.antmedia.android.MainActivity">
+        <activity android:name="io.antmedia.android1.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,16 +26,16 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="io.antmedia.android.liveVideoBroadcaster.LiveVideoBroadcasterActivity"
+        <activity android:name="io.antmedia.android1.liveVideoBroadcaster.LiveVideoBroadcasterActivity"
             android:theme="@style/AppThemeDark"
             android:configChanges="orientation|keyboardHidden|screenSize"
             />
 
-        <activity android:name="io.antmedia.android.liveVideoPlayer.LiveVideoPlayerActivity"
+        <activity android:name="io.antmedia.android1.liveVideoPlayer.LiveVideoPlayerActivity"
             android:theme="@style/AppThemeDark"
             />
 
-        <service android:name="io.antmedia.android.broadcaster.LiveVideoBroadcaster" />
+        <service android:name="io.antmedia.android1.broadcaster.LiveVideoBroadcaster" />
     </application>
 
 </manifest>

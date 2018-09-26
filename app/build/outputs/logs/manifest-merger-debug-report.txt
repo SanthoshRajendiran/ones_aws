@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:liveVideoBroadcasterSDK] /home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/3778d9cf49c13de174fa69623bcf22e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/042eeb5e48e29d7821872703d5c58368/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/1d9ab2ea6b76d26c48b80723f0a203f7/AndroidManifest.xml:17:1-24:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/9c3518fc7cac0fe0663f4c1c2eb78a33/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/e73320d9c42be5e7bfaa347dead5f3b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/84c46c74c6ab51a812a9874c6058fa3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/ccafb6ba0fc5ed7271d45685f3178a94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/be4a75deb620426bd36be0a50a34e201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e1be73c5194fd71b8f514895d06bfafa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/807bceed46f52e5db747ec03b574e3cb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/9fda625d6fa8ba1da4ccb56b64f515cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2dca7e335087f7f847253aa7e29f1f25/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/f176b3005181510921db2abbb86053e2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/cf080d4dff5fbf0a5c4aeb3334d6b8cd/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/34c746dc1be12d89117634862f30a353/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/70753dd944792b19aba7a617489825ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/cbc94e0fdc6d3d095a22f2af00ed935e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/3e34746c2acaac82a70a3842976f464c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/b6b75844615f86c3743bb8c37c8c5ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/9c3518fc7cac0fe0663f4c1c2eb78a33/AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/9c3518fc7cac0fe0663f4c1c2eb78a33/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/cf080d4dff5fbf0a5c4aeb3334d6b8cd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/cf080d4dff5fbf0a5c4aeb3334d6b8cd/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:8:22-76
+uses-feature#0x00020000
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:12:9-32
+application
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:14:5-39:19
+MERGED from [:liveVideoBroadcasterSDK] /home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:liveVideoBroadcasterSDK] /home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:19:9-40
+activity#io.antmedia.android1.MainActivity
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:21:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:25:27-74
+activity#io.antmedia.android1.liveVideoBroadcaster.LiveVideoBroadcasterActivity
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:29:9-32:15
+	android:configChanges
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:31:13-74
+	android:theme
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:29:19-104
+activity#io.antmedia.android1.liveVideoPlayer.LiveVideoPlayerActivity
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:34:9-36:15
+	android:theme
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:34:19-94
+service#io.antmedia.android1.broadcaster.LiveVideoBroadcaster
+ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:38:9-89
+	android:name
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml:38:18-86
+uses-sdk
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+MERGED from [:liveVideoBroadcasterSDK] /home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:liveVideoBroadcasterSDK] /home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/3778d9cf49c13de174fa69623bcf22e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/3778d9cf49c13de174fa69623bcf22e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/042eeb5e48e29d7821872703d5c58368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/042eeb5e48e29d7821872703d5c58368/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/1d9ab2ea6b76d26c48b80723f0a203f7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/1d9ab2ea6b76d26c48b80723f0a203f7/AndroidManifest.xml:20:5-22:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/9c3518fc7cac0fe0663f4c1c2eb78a33/AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/9c3518fc7cac0fe0663f4c1c2eb78a33/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/e73320d9c42be5e7bfaa347dead5f3b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/e73320d9c42be5e7bfaa347dead5f3b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/84c46c74c6ab51a812a9874c6058fa3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/84c46c74c6ab51a812a9874c6058fa3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/ccafb6ba0fc5ed7271d45685f3178a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/ccafb6ba0fc5ed7271d45685f3178a94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/be4a75deb620426bd36be0a50a34e201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/be4a75deb620426bd36be0a50a34e201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e1be73c5194fd71b8f514895d06bfafa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e1be73c5194fd71b8f514895d06bfafa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/807bceed46f52e5db747ec03b574e3cb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/807bceed46f52e5db747ec03b574e3cb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/9fda625d6fa8ba1da4ccb56b64f515cf/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/9fda625d6fa8ba1da4ccb56b64f515cf/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2dca7e335087f7f847253aa7e29f1f25/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2dca7e335087f7f847253aa7e29f1f25/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/f176b3005181510921db2abbb86053e2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/f176b3005181510921db2abbb86053e2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/cf080d4dff5fbf0a5c4aeb3334d6b8cd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/cf080d4dff5fbf0a5c4aeb3334d6b8cd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/34c746dc1be12d89117634862f30a353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/34c746dc1be12d89117634862f30a353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/70753dd944792b19aba7a617489825ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/70753dd944792b19aba7a617489825ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/cbc94e0fdc6d3d095a22f2af00ed935e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/cbc94e0fdc6d3d095a22f2af00ed935e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/3e34746c2acaac82a70a3842976f464c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/3e34746c2acaac82a70a3842976f464c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/b6b75844615f86c3743bb8c37c8c5ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/b6b75844615f86c3743bb8c37c8c5ae6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anilsathyan7/introtuce/ones_aws/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anilsathyan7/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa3a293617eec83263bfd6c5cc92c1dd/AndroidManifest.xml:26:13-58

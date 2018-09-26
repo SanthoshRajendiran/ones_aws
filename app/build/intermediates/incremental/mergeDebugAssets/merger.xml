@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":liveVideoBroadcasterSDK"><source path="/home/anilsathyan7/introtuce/ones_aws/liveVideoBroadcasterSDK/build/intermediates/packagedAssets/debug"/></dataSet><dataSet config="main"><source path="/home/anilsathyan7/introtuce/ones_aws/app/src/main/assets"/><source path="/home/anilsathyan7/introtuce/ones_aws/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/anilsathyan7/introtuce/ones_aws/app/src/debug/assets"/></dataSet></merger>
